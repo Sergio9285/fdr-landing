@@ -1,0 +1,2117 @@
+{
+  "terminales": [
+    {
+      "raw_code": "FD-2005 R/L",
+      "desc": "TERMINAL AGRALE",
+      "diam_mayor": "22.2 mm",
+      "diam_menor": "19.5 mm",
+      "diam_rosca": "28 mm",
+      "paso": "1.5",
+      "long_vastago": "84 mm"
+    },
+    {
+      "raw_code": "FD-2061 R/62 L",
+      "desc": "TERMINAL CHEVROLET B-60",
+      "diam_mayor": "23.3 mm",
+      "diam_menor": "19.9 mm",
+      "diam_rosca": "1 pulg.",
+      "paso": "16 h x pulg.",
+      "long_vastago": "80 mm"
+    },
+    {
+      "raw_code": "FD-2063 R/64 L",
+      "desc": "TERMINAL CHEVROLET C-70",
+      "diam_mayor": "23.3 mm",
+      "diam_menor": "19.9 mm",
+      "diam_rosca": "1 pulg.",
+      "paso": "16 h x pulg.",
+      "long_vastago": "80 mm"
+    },
+    {
+      "raw_code": "FD-2069 R/70 L",
+      "desc": "TERMINAL CHEVROLET BRIGADIER",
+      "diam_mayor": "26.5 mm",
+      "diam_menor": "23 mm",
+      "diam_rosca": "1-1/8 pulg.",
+      "paso": "12 h x pulg.",
+      "long_vastago": "85 mm"
+    },
+    {
+      "raw_code": "FD-3274 R/75 L",
+      "desc": "TERMINAL CHEVROLET KODIAK DIESEL",
+      "diam_mayor": "29.9 mm",
+      "diam_menor": "26.2 mm",
+      "diam_rosca": "1-1/8 pulg.",
+      "paso": "12 h x pulg.",
+      "long_vastago": "105 mm"
+    },
+    {
+      "raw_code": "FD-3274-01 R/75-01 L",
+      "desc": "TERMINAL CHEVROLET KODIAK DOBLETROQUE",
+      "diam_mayor": "29.9 mm",
+      "diam_menor": "26.2 mm",
+      "diam_rosca": "1-1/8 pulg.",
+      "paso": "12 h x pulg.",
+      "long_vastago": "115 mm"
+    },
+    {
+      "raw_code": "FD-3277 R/78 L",
+      "desc": "TERMINAL CHEVROLET KODIAK GASOLINA",
+      "diam_mayor": "26.5 mm",
+      "diam_menor": "23 mm",
+      "diam_rosca": "1 pulg.",
+      "paso": "16 h x pulg.",
+      "long_vastago": "80 mm"
+    },
+    {
+      "raw_code": "FD-4001 R/L",
+      "desc": "TERMINAL CHEVROLET TRANSVERSAL NPR",
+      "diam_mayor": "20.1 mm",
+      "diam_menor": "17.7 mm",
+      "diam_rosca": "20 mm",
+      "paso": "1.5",
+      "long_vastago": "65 mm"
+    },
+    {
+      "raw_code": "FD-4005 R/L",
+      "desc": "TERMINAL CHEVROLET NKR",
+      "diam_mayor": "20.1 mm",
+      "diam_menor": "17.7 mm",
+      "diam_rosca": "20 mm",
+      "paso": "1.5",
+      "long_vastago": "65 mm"
+    },
+    {
+      "raw_code": "FD-4006 R/L",
+      "desc": "TERMINAL CHEVROLET NPR BIELA ROSCA 1\"",
+      "diam_mayor": "23.3 mm",
+      "diam_menor": "19.6 mm",
+      "diam_rosca": "1 pulg.",
+      "paso": "16 h x pulg.",
+      "long_vastago": "80 mm"
+    },
+    {
+      "raw_code": "FD-2090 R/91 L",
+      "desc": "TERMINAL CHEVROLET SUPER BRIGADIER",
+      "diam_mayor": "31.9 mm",
+      "diam_menor": "20.3 mm",
+      "diam_rosca": "20 mm",
+      "paso": "1.5",
+      "long_vastago": "145 mm"
+    },
+    {
+      "raw_code": "FD-4013 R",
+      "desc": "TERMINAL BRAZO NPR (DER)",
+      "diam_mayor": "22 mm",
+      "diam_menor": "17 mm",
+      "diam_rosca": "20 mm",
+      "paso": "1.5",
+      "long_vastago": "65 mm"
+    },
+    {
+      "raw_code": "FD-4013 L",
+      "desc": "TERMINAL BRAZO NPR (IZQ)",
+      "diam_mayor": "22 mm",
+      "diam_menor": "19.8 mm",
+      "diam_rosca": "20 mm",
+      "paso": "1.5",
+      "long_vastago": "65 mm"
+    },
+    {
+      "raw_code": "FD-4014 R/L",
+      "desc": "TERMINAL BRAZO NKR",
+      "diam_mayor": "22.6 mm",
+      "diam_menor": "20.3 mm",
+      "diam_rosca": "20 mm",
+      "paso": "1.5",
+      "long_vastago": "65 mm"
+    },
+    {
+      "raw_code": "FD-4016 R/L",
+      "desc": "TERMINAL FSR",
+      "diam_mayor": "22.6 mm",
+      "diam_menor": "20.3 mm",
+      "diam_rosca": "20 mm",
+      "paso": "1.5",
+      "long_vastago": "95 mm"
+    },
+    {
+      "raw_code": "FD-4018 R/L",
+      "desc": "TERMINAL NPR MÁS LARGA",
+      "diam_mayor": "20.14 mm",
+      "diam_menor": "17.6 mm",
+      "diam_rosca": "20 mm",
+      "paso": "1.5",
+      "long_vastago": "80 mm"
+    },
+    {
+      "raw_code": "FD-4031 R/L",
+      "desc": "TERMINAL NKR 1\"",
+      "diam_mayor": "23 mm",
+      "diam_menor": "20 mm",
+      "diam_rosca": "1 pulg.",
+      "paso": "16 h x pulg.",
+      "long_vastago": "80 mm"
+    },
+    {
+      "raw_code": "FD-4032 R/L",
+      "desc": "TERMINAL BRAZO FTR",
+      "diam_mayor": "32 mm",
+      "diam_menor": "29.5 mm",
+      "diam_rosca": "1-1/4 pulg.",
+      "paso": "12 h x pulg.",
+      "long_vastago": "101 mm"
+    },
+    {
+      "raw_code": "FD-4047 R/L",
+      "desc": "TERMINAL CHEVROLET NHR",
+      "diam_mayor": "20.14 mm",
+      "diam_menor": "17.6 mm",
+      "diam_rosca": "20 mm",
+      "paso": "1.5",
+      "long_vastago": "65 mm"
+    },
+    {
+      "raw_code": "FD-4086 R/L",
+      "desc": "TERMINAL BRAZO CYZ MOD 2015",
+      "diam_mayor": "30.2 mm",
+      "diam_menor": "27.5 mm",
+      "diam_rosca": "1-1/4 pulg.",
+      "paso": "12 h x pulg.",
+      "long_vastago": "75 mm"
+    },
+    {
+      "raw_code": "FD-4061 R/L",
+      "desc": "TERMINAL TRANS. DAEWOO",
+      "diam_mayor": "32.5 mm",
+      "diam_menor": "29.5 mm",
+      "diam_rosca": "1-1/4 pulg.",
+      "paso": "12 h x pulg.",
+      "long_vastago": "100 mm"
+    },
+    {
+      "raw_code": "FD-4087 R/L",
+      "desc": "TERMINAL BRAZO HÍBRIDO",
+      "diam_mayor": "30.2 mm",
+      "diam_menor": "27.5 mm",
+      "diam_rosca": "1-1/4 pulg.",
+      "paso": "12 h x pulg.",
+      "long_vastago": "75 mm"
+    },
+    {
+      "raw_code": "FD-4003 R/L",
+      "desc": "TERMINAL DAIHATSU DELTA",
+      "diam_mayor": "20.14 mm",
+      "diam_menor": "17.6 mm",
+      "diam_rosca": "20 mm",
+      "paso": "1.5",
+      "long_vastago": "65 mm"
+    },
+    {
+      "raw_code": "FD-4017 R/L",
+      "desc": "TERMINAL DAIHATSU SUPER DELTA",
+      "diam_mayor": "22.6 mm",
+      "diam_menor": "19.8 mm",
+      "diam_rosca": "20 mm",
+      "paso": "1.5",
+      "long_vastago": "65 mm"
+    },
+    {
+      "raw_code": "FD-423 R/L",
+      "desc": "TERMINAL DINA",
+      "diam_mayor": "28.1 mm",
+      "diam_menor": "24.4 mm",
+      "diam_rosca": "1-1/8 pulg.",
+      "paso": "12 h x pulg.",
+      "long_vastago": "115 mm"
+    },
+    {
+      "raw_code": "FD-142 R/L",
+      "desc": "TERMINAL DODGE 600",
+      "diam_mayor": "23.1 mm",
+      "diam_menor": "19.5 mm",
+      "diam_rosca": "1 pulg.",
+      "paso": "16 h x pulg.",
+      "long_vastago": "70 mm"
+    },
+    {
+      "raw_code": "FD-194 R/L",
+      "desc": "TERMINAL DODGE 500",
+      "diam_mayor": "19.5 mm",
+      "diam_menor": "17 mm",
+      "diam_rosca": "7/8 pulg.",
+      "paso": "18 h x pulg.",
+      "long_vastago": "80 mm"
+    },
+    {
+      "raw_code": "FD-187 R/L",
+      "desc": "TERMINAL F-900",
+      "diam_mayor": "28.1 mm",
+      "diam_menor": "24.4 mm",
+      "diam_rosca": "1-1/8 pulg.",
+      "paso": "12 h x pulg.",
+      "long_vastago": "85 mm"
+    },
+    {
+      "raw_code": "FD-F9000 2 R/L",
+      "desc": "TERMINAL F-9000 ROSCA 1-1/4\"",
+      "diam_mayor": "28.1 mm",
+      "diam_menor": "24.4 mm",
+      "diam_rosca": "1-1/4 pulg.",
+      "paso": "12 h x pulg.",
+      "long_vastago": "147 mm"
+    },
+    {
+      "raw_code": "FD-F9000 1 R/L",
+      "desc": "TERMINAL F-9000 ROSCA 1-1/8\"",
+      "diam_mayor": "32 mm",
+      "diam_menor": "27.4 mm",
+      "diam_rosca": "1-1/8 pulg.",
+      "paso": "12 h x pulg.",
+      "long_vastago": "100 mm"
+    },
+    {
+      "raw_code": "FD-2035 R/36L",
+      "desc": "TERMINAL FORD 7000 PIRAGUA",
+      "diam_mayor": "23.32 mm",
+      "diam_menor": "19.9 mm",
+      "diam_rosca": "1 pulg.",
+      "paso": "16 h x pulg.",
+      "long_vastago": "120 mm"
+    },
+    {
+      "raw_code": "FD-2007 R/L",
+      "desc": "TERMINAL FORD CARGO 815",
+      "diam_mayor": "22.2 mm",
+      "diam_menor": "19.5 mm",
+      "diam_rosca": "30 mm",
+      "paso": "1.5",
+      "long_vastago": "89.5 mm"
+    },
+    {
+      "raw_code": "FD-4019 R/L",
+      "desc": "TERMINAL FORD CARGO 1721",
+      "diam_mayor": "28.1 mm",
+      "diam_menor": "24.4 mm",
+      "diam_rosca": "1-1/8 pulg.",
+      "paso": "12 h x pulg.",
+      "long_vastago": "85 mm"
+    },
+    {
+      "raw_code": "FD-346 R/L",
+      "desc": "TERMINAL TIPO 9 1/2",
+      "diam_mayor": "32 mm",
+      "diam_menor": "27.7 mm",
+      "diam_rosca": "1-1/4 pulg.",
+      "paso": "12 h x pulg.",
+      "long_vastago": "100 mm"
+    },
+    {
+      "raw_code": "FD-4023 R/L",
+      "desc": "TERMINAL FOTON",
+      "diam_mayor": "20.14 mm",
+      "diam_menor": "17.64 mm",
+      "diam_rosca": "24 mm",
+      "paso": "1.5",
+      "long_vastago": "70 mm"
+    },
+    {
+      "raw_code": "FD-1133 R/L",
+      "desc": "TERMINAL FOTON 1133",
+      "diam_mayor": "23.3 mm",
+      "diam_menor": "19.8 mm",
+      "diam_rosca": "30 mm",
+      "paso": "1.5",
+      "long_vastago": "90 mm"
+    },
+    {
+      "raw_code": "FD-4030 R/L",
+      "desc": "TERMINAL BRAZO FOTON AUMAN CAMIÓN",
+      "diam_mayor": "23.3 mm",
+      "diam_menor": "19.8 mm",
+      "diam_rosca": "30 mm",
+      "paso": "1.5",
+      "long_vastago": "89.4 mm"
+    },
+    {
+      "raw_code": "FD-4100 R/L",
+      "desc": "TERMINAL FOTON DOBLE TROQUE",
+      "diam_mayor": "26.31 mm",
+      "diam_menor": "23.44 mm",
+      "diam_rosca": "1-1/8 pulg.",
+      "paso": "12 h x pulg.",
+      "long_vastago": "75 mm"
+    },
+    {
+      "raw_code": "FD-4106 R/L",
+      "desc": "TERMINAL TRANSVERSAL FOTON 3115",
+      "diam_mayor": "30.2 mm",
+      "diam_menor": "27.5 mm",
+      "diam_rosca": "30 mm",
+      "paso": "1.5",
+      "long_vastago": "317 mm"
+    },
+    {
+      "raw_code": "FD-4041 R/L",
+      "desc": "TERMINAL FREIGHTLINER",
+      "diam_mayor": "30.2 mm",
+      "diam_menor": "27.06 mm",
+      "diam_rosca": "30 mm",
+      "paso": "1.5",
+      "long_vastago": "80 mm"
+    },
+    {
+      "raw_code": "FD-4012 R/L",
+      "desc": "TERMINAL HINO BUSETON",
+      "diam_mayor": "22.2 mm",
+      "diam_menor": "20 mm",
+      "diam_rosca": "25 mm",
+      "paso": "1.5",
+      "long_vastago": "80 mm"
+    },
+    {
+      "raw_code": "FD-4033 R/L",
+      "desc": "TERMINAL HINO BRAZO",
+      "diam_mayor": "23.32 mm",
+      "diam_menor": "19.9 mm",
+      "diam_rosca": "1 pulg.",
+      "paso": "16 h x pulg.",
+      "long_vastago": "75 mm"
+    },
+    {
+      "raw_code": "FD-4054 R/L",
+      "desc": "TERMINAL HINO DUTRO 300",
+      "diam_mayor": "22.6 mm",
+      "diam_menor": "19.8 mm",
+      "diam_rosca": "22 mm",
+      "paso": "1.5",
+      "long_vastago": "65 mm"
+    },
+    {
+      "raw_code": "FD-4056 R/L",
+      "desc": "TERMINAL BRAZO HINO FG 500",
+      "diam_mayor": "28 mm",
+      "diam_menor": "25.4 mm",
+      "diam_rosca": "1-1/8 pulg.",
+      "paso": "12 h x pulg.",
+      "long_vastago": "85 mm"
+    },
+    {
+      "raw_code": "FD-4062 R/L",
+      "desc": "TERMINAL HINO 2015",
+      "diam_mayor": "22.2 mm",
+      "diam_menor": "20 mm",
+      "diam_rosca": "25 mm",
+      "paso": "1.5",
+      "long_vastago": "99 mm"
+    },
+    {
+      "raw_code": "FD-1139 R/L",
+      "desc": "TERMINAL BRAZO HINO DUTRO",
+      "diam_mayor": "21.5 mm",
+      "diam_menor": "20 mm",
+      "diam_rosca": "22 mm",
+      "paso": "1.5",
+      "long_vastago": "63 mm"
+    },
+    {
+      "raw_code": "FD-4076 R/L",
+      "desc": "TERMINAL BRAZO PITMAN HINO RK BUS",
+      "diam_mayor": "30.2 mm",
+      "diam_menor": "27 mm",
+      "diam_rosca": "30 mm",
+      "paso": "1.5",
+      "long_vastago": "80 mm"
+    },
+    {
+      "raw_code": "FD-4084 R/L",
+      "desc": "TERMINAL HINO FD500 CAMIÓN",
+      "diam_mayor": "22.2 mm",
+      "diam_menor": "20 mm",
+      "diam_rosca": "1-1/8 pulg.",
+      "paso": "12 h x pulg.",
+      "long_vastago": "85 mm"
+    },
+    {
+      "raw_code": "FD-4089 R/L",
+      "desc": "TERMINAL BRAZO HINO 2018",
+      "diam_mayor": "22 mm",
+      "diam_menor": "20 mm",
+      "diam_rosca": "1 pulg.",
+      "paso": "16 h x pulg.",
+      "long_vastago": "80 mm"
+    },
+    {
+      "raw_code": "FD-4097 R/L",
+      "desc": "TERMINAL BRAZO HINO AK",
+      "diam_mayor": "28 mm",
+      "diam_menor": "26 mm",
+      "diam_rosca": "1-1/8 pulg.",
+      "paso": "12 h x pulg.",
+      "long_vastago": "85 mm"
+    },
+    {
+      "raw_code": "FD-4101 R/L",
+      "desc": "TERMINAL HINO NUEVO 2021",
+      "diam_mayor": "22.2 mm",
+      "diam_menor": "20 mm",
+      "diam_rosca": "21 mm",
+      "paso": "1.5",
+      "long_vastago": "95 mm"
+    },
+    {
+      "raw_code": "FD-4026 R/L",
+      "desc": "TERMINAL HYUNDAI H-100",
+      "diam_mayor": "19.6 mm",
+      "diam_menor": "17 mm",
+      "diam_rosca": "22 mm",
+      "paso": "1.5",
+      "long_vastago": "70 mm"
+    },
+    {
+      "raw_code": "FD-4039 R/L",
+      "desc": "TERMINAL HYUNDAI 4 MANOS 36",
+      "diam_mayor": "36.5 mm",
+      "diam_menor": "33 mm",
+      "diam_rosca": "1-1/4 pulg.",
+      "paso": "12 h x pulg.",
+      "long_vastago": "100 mm"
+    },
+    {
+      "raw_code": "FD-4043 R/L",
+      "desc": "TERMINAL HYUNDAI HD-72",
+      "diam_mayor": "22 mm",
+      "diam_menor": "19.6 mm",
+      "diam_rosca": "24 mm",
+      "paso": "1.5",
+      "long_vastago": "75 mm"
+    },
+    {
+      "raw_code": "FD-4044 R/L",
+      "desc": "TERMINAL HYUNDAI HD-75",
+      "diam_mayor": "23.32 mm",
+      "diam_menor": "19.9 mm",
+      "diam_rosca": "24 mm",
+      "paso": "1.5",
+      "long_vastago": "79 mm"
+    },
+    {
+      "raw_code": "FD-4045 R/L",
+      "desc": "TERMINAL HYUNDAI HD-72 MOD. 2010",
+      "diam_mayor": "20.91 mm",
+      "diam_menor": "18.56 mm",
+      "diam_rosca": "22 mm",
+      "paso": "1.5",
+      "long_vastago": "115 mm"
+    },
+    {
+      "raw_code": "FD-4049 R/L",
+      "desc": "TERMINAL HYUNDAI COUNTRY 2013",
+      "diam_mayor": "21 mm",
+      "diam_menor": "18.6 mm",
+      "diam_rosca": "22 mm",
+      "paso": "1.5",
+      "long_vastago": "68 mm"
+    },
+    {
+      "raw_code": "FD-4050 R/L",
+      "desc": "TERMINAL HYUNDAI HD-65",
+      "diam_mayor": "21 mm",
+      "diam_menor": "18.6 mm",
+      "diam_rosca": "22 mm",
+      "paso": "1.5",
+      "long_vastago": "63 mm"
+    },
+    {
+      "raw_code": "FD-4083 R/L",
+      "desc": "TERMINAL TRANSVERSAL HD-120",
+      "diam_mayor": "23 mm",
+      "diam_menor": "21 mm",
+      "diam_rosca": "24 mm",
+      "paso": "1.5",
+      "long_vastago": "73 mm"
+    },
+    {
+      "raw_code": "FD-411 R/L",
+      "desc": "TERMINAL INTERNATIONAL 4700",
+      "diam_mayor": "28.1 mm",
+      "diam_menor": "24.4 mm",
+      "diam_rosca": "1-1/8 pulg.",
+      "paso": "12 h x pulg.",
+      "long_vastago": "171 mm"
+    },
+    {
+      "raw_code": "FD-7600 R/L",
+      "desc": "TERMINAL HI 7600",
+      "diam_mayor": "28.1 mm",
+      "diam_menor": "24.4 mm",
+      "diam_rosca": "1-1/8 pulg.",
+      "paso": "12 h x pulg.",
+      "long_vastago": "85 mm"
+    },
+    {
+      "raw_code": "FD-4024 R/L",
+      "desc": "TERMINAL JAC",
+      "diam_mayor": "20.14 mm",
+      "diam_menor": "17.64 mm",
+      "diam_rosca": "20 mm",
+      "paso": "1.5",
+      "long_vastago": "80 mm"
+    },
+    {
+      "raw_code": "FD-JBC 1030 R/L",
+      "desc": "TERMINAL JBC 1030",
+      "diam_mayor": "18 mm",
+      "diam_menor": "15.6 mm",
+      "diam_rosca": "18 mm",
+      "paso": "1.5",
+      "long_vastago": "54 mm"
+    },
+    {
+      "raw_code": "FD-JBC 1040 R/L",
+      "desc": "TERMINAL JBC 1040",
+      "diam_mayor": "21.5 mm",
+      "diam_menor": "17.7 mm",
+      "diam_rosca": "24 mm",
+      "paso": "1.5",
+      "long_vastago": "64 mm"
+    },
+    {
+      "raw_code": "FD-4027 R/L",
+      "desc": "TERMINAL KENWORTH T-800 2008",
+      "diam_mayor": "32 mm",
+      "diam_menor": "27.4 mm",
+      "diam_rosca": "1-1/8 pulg.",
+      "paso": "12 h x pulg.",
+      "long_vastago": "75 mm"
+    },
+    {
+      "raw_code": "FD-4105 R/L",
+      "desc": "TERMINAL KENWORTH T-800 TRANSVERSAL",
+      "diam_mayor": "32 mm",
+      "diam_menor": "27.4 mm",
+      "diam_rosca": "1.875 pulg.",
+      "paso": "12 h x pulg.",
+      "long_vastago": "317 mm"
+    },
+    {
+      "raw_code": "FD-4048 R/L",
+      "desc": "TERMINAL KIA K-3000",
+      "diam_mayor": "20.14 mm",
+      "diam_menor": "17.64 mm",
+      "diam_rosca": "18 mm",
+      "paso": "1.5",
+      "long_vastago": "68 mm"
+    },
+    {
+      "raw_code": "FD-4008 R/L",
+      "desc": "TERMINAL MACK",
+      "diam_mayor": "31.5 mm",
+      "diam_menor": "31.5 mm",
+      "diam_rosca": "1-1/4 pulg.",
+      "paso": "12 h x pulg.",
+      "long_vastago": "100 mm"
+    },
+    {
+      "raw_code": "FD-4098 R/L",
+      "desc": "TERMINAL BRAZO MACK",
+      "diam_mayor": "29 mm",
+      "diam_menor": "24 mm",
+      "diam_rosca": "1-1/8 pulg.",
+      "paso": "12 h x pulg.",
+      "long_vastago": "85 mm"
+    },
+    {
+      "raw_code": "FD-4009 R/L",
+      "desc": "TERMINAL MAZDA TURBO 4.5",
+      "diam_mayor": "20.14 mm",
+      "diam_menor": "17.64 mm",
+      "diam_rosca": "18 mm",
+      "paso": "1.5",
+      "long_vastago": "68 mm"
+    },
+    {
+      "raw_code": "FD-4038 R/L",
+      "desc": "TERMINAL MAZDA BRAZO",
+      "diam_mayor": "20.1 mm",
+      "diam_menor": "17.7 mm",
+      "diam_rosca": "18 mm",
+      "paso": "1.5",
+      "long_vastago": "54 mm"
+    },
+    {
+      "raw_code": "FD-MBZ 5 R/L",
+      "desc": "TERMINAL MERCEDES BENZ 362 Y 814",
+      "diam_mayor": "22.2 mm",
+      "diam_menor": "19.5 mm",
+      "diam_rosca": "28 mm",
+      "paso": "1.5",
+      "long_vastago": "79 mm"
+    },
+    {
+      "raw_code": "FD-MBZ 6 R/L",
+      "desc": "TERMINAL MERCEDES BENZ 362 BRAZO",
+      "diam_mayor": "22.2 mm",
+      "diam_menor": "19.2 mm",
+      "diam_rosca": "30 mm",
+      "paso": "1.5",
+      "long_vastago": "89.4 mm"
+    },
+    {
+      "raw_code": "FD-MBZ 7 R/L",
+      "desc": "TERMINAL MERCEDES BENZ BUSETON LO 915",
+      "diam_mayor": "22.2 mm",
+      "diam_menor": "19.2 mm",
+      "diam_rosca": "24 mm",
+      "paso": "1.5",
+      "long_vastago": "65 mm"
+    },
+    {
+      "raw_code": "FD-MBZ 8 R/L",
+      "desc": "TERMINAL MERCEDES BENZ TIPO LIVIANO",
+      "diam_mayor": "26.31 mm",
+      "diam_menor": "23.44 mm",
+      "diam_rosca": "30 mm",
+      "paso": "1.5",
+      "long_vastago": "89.4 mm"
+    },
+    {
+      "raw_code": "FD-MBZ 9 R/L",
+      "desc": "TERMINAL MERCEDES BENZ TIPO MEDIANO",
+      "diam_mayor": "30.2 mm",
+      "diam_menor": "27.6 mm",
+      "diam_rosca": "30 mm",
+      "paso": "1.5",
+      "long_vastago": "80 mm"
+    },
+    {
+      "raw_code": "FD-MBZ 10 R/L",
+      "desc": "TERMINAL MERCEDES BENZ TIPO PESADO",
+      "diam_mayor": "32 mm",
+      "diam_menor": "27.5 mm",
+      "diam_rosca": "30 mm",
+      "paso": "1.5",
+      "long_vastago": "100 mm"
+    },
+    {
+      "raw_code": "FD-712 R/L",
+      "desc": "TERMINAL MERCEDES BENZ 712 2004",
+      "diam_mayor": "22.2 mm",
+      "diam_menor": "20 mm",
+      "diam_rosca": "24 mm",
+      "paso": "1.5",
+      "long_vastago": "64 mm"
+    },
+    {
+      "raw_code": "FD-4060 R/L",
+      "desc": "TERMINAL MERCEDES BENZ CURVA",
+      "diam_mayor": "32 mm",
+      "diam_menor": "27.4 mm",
+      "diam_rosca": "1-5/8 pulg.",
+      "paso": "12 h x pulg.",
+      "long_vastago": "300 mm"
+    },
+    {
+      "raw_code": "FD-4063 R/L",
+      "desc": "TERMINAL MERCEDES BENZ LO 915",
+      "diam_mayor": "22 mm",
+      "diam_menor": "19.6 mm",
+      "diam_rosca": "30 mm",
+      "paso": "1.5",
+      "long_vastago": "89.4 mm"
+    },
+    {
+      "raw_code": "FD-4077 R/L",
+      "desc": "TERMINAL MERCEDES BENZ LO 912",
+      "diam_mayor": "22 mm",
+      "diam_menor": "19.6 mm",
+      "diam_rosca": "30 mm",
+      "paso": "1.5",
+      "long_vastago": "90 mm"
+    },
+    {
+      "raw_code": "FD-4085 R/L",
+      "desc": "TERMINAL MERCEDES ACTROS 3335",
+      "diam_mayor": "32 mm",
+      "diam_menor": "29 mm",
+      "diam_rosca": "30 mm",
+      "paso": "1.5",
+      "long_vastago": ""
+    },
+    {
+      "raw_code": "FD-4088 R/L",
+      "desc": "TERMINAL MERCEDES BENZ OF 1722",
+      "diam_mayor": "30.2 mm",
+      "diam_menor": "27.6 mm",
+      "diam_rosca": "32 mm",
+      "paso": "1.5",
+      "long_vastago": "80 mm"
+    },
+    {
+      "raw_code": "FD-4107 R/L",
+      "desc": "MERCEDES BENZ OF 1218",
+      "diam_mayor": "30.2 mm",
+      "diam_menor": "27.5 mm",
+      "diam_rosca": "30 mm",
+      "paso": "1.5",
+      "long_vastago": ""
+    },
+    {
+      "raw_code": "FD-4007 R/L",
+      "desc": "TERMINAL MITSUBISHI CANTER",
+      "diam_mayor": "21 mm",
+      "diam_menor": "18.6 mm",
+      "diam_rosca": "22 mm",
+      "paso": "1.5",
+      "long_vastago": "115 mm"
+    },
+    {
+      "raw_code": "FD-4037 R/L",
+      "desc": "TERMINAL MITSUBISHI CANTER BRAZO",
+      "diam_mayor": "22.6 mm",
+      "diam_menor": "19.8 mm",
+      "diam_rosca": "22 mm",
+      "paso": "1.5",
+      "long_vastago": "63 mm"
+    },
+    {
+      "raw_code": "FD-4108 R/L",
+      "desc": "TERMINAL MITSUBISHI CANTER FUSO",
+      "diam_mayor": "20.9 mm",
+      "diam_menor": "18.5 mm",
+      "diam_rosca": "20 mm",
+      "paso": "1.5",
+      "long_vastago": ""
+    },
+    {
+      "raw_code": "FD-4002 R/L",
+      "desc": "TERMINAL NISSAN M T3000 R/L",
+      "diam_mayor": "18.7 mm",
+      "diam_menor": "16.1 mm",
+      "diam_rosca": "22 mm",
+      "paso": "1.5",
+      "long_vastago": "65 mm"
+    },
+    {
+      "raw_code": "FD-4052 R/L",
+      "desc": "TERMINAL NISSAN CABSTAR BRAZO",
+      "diam_mayor": "18.29 mm",
+      "diam_menor": "16.3 mm",
+      "diam_rosca": "22 mm",
+      "paso": "1.5",
+      "long_vastago": "65 mm"
+    },
+    {
+      "raw_code": "FD-4070 R/L",
+      "desc": "TERMINAL TRANSVERSAL NISSAN NT-400",
+      "diam_mayor": "20.5 mm",
+      "diam_menor": "17.5 mm",
+      "diam_rosca": "22 mm",
+      "paso": "1.5",
+      "long_vastago": "63 mm"
+    },
+    {
+      "raw_code": "FD-4073 R/L",
+      "desc": "TERMINAL BRAZO NISSAN NT-400",
+      "diam_mayor": "20.5 mm",
+      "diam_menor": "17.5 mm",
+      "diam_rosca": "22 mm",
+      "paso": "1.5",
+      "long_vastago": "63 mm"
+    },
+    {
+      "raw_code": "FD-4082 R/L",
+      "desc": "TERMINAL SCANIA BRAZO TRANSVERSAL",
+      "diam_mayor": "30.2 mm",
+      "diam_menor": "27 mm",
+      "diam_rosca": "30 mm",
+      "paso": "1.5",
+      "long_vastago": "80 mm"
+    },
+    {
+      "raw_code": "FD-4104 R/L",
+      "desc": "TERMINAL DE DIRECCIÓN SCANIA",
+      "diam_mayor": "26.31 mm",
+      "diam_menor": "23.44 mm",
+      "diam_rosca": "30 mm",
+      "paso": "1.5",
+      "long_vastago": "110 mm"
+    },
+    {
+      "raw_code": "FD-4010 R/L",
+      "desc": "TERMINAL MACK RENAULT",
+      "diam_mayor": "30.2 mm",
+      "diam_menor": "27 mm",
+      "diam_rosca": "30 mm",
+      "paso": "1.5",
+      "long_vastago": "80 mm"
+    },
+    {
+      "raw_code": "FD-2006 R/L",
+      "desc": "TERMINAL VOLKSWAGEN",
+      "diam_mayor": "22.2 mm",
+      "diam_menor": "19.2 mm",
+      "diam_rosca": "30 mm",
+      "paso": "1.5",
+      "long_vastago": "89.4 mm"
+    },
+    {
+      "raw_code": "FD-4057 R/L",
+      "desc": "TERMINAL BRAZO VOLKSWAGEN 9-150",
+      "diam_mayor": "22.2 mm",
+      "diam_menor": "19.2 mm",
+      "diam_rosca": "28 mm",
+      "paso": "1.5",
+      "long_vastago": "79 mm"
+    },
+    {
+      "raw_code": "FD-4075 R/L",
+      "desc": "TERMINAL VOLKSWAGEN 17220",
+      "diam_mayor": "28 mm",
+      "diam_menor": "24.4 mm",
+      "diam_rosca": "1-1/8 pulg.",
+      "paso": "12 h x pulg.",
+      "long_vastago": "85 mm"
+    },
+    {
+      "raw_code": "FD-4011 R/L",
+      "desc": "TERMINAL VOLVO",
+      "diam_mayor": "28 mm",
+      "diam_menor": "24.4 mm",
+      "diam_rosca": "30 mm",
+      "paso": "1.5",
+      "long_vastago": "80 mm"
+    },
+    {
+      "raw_code": "FD-4055 R/L",
+      "desc": "TERMINAL METROPLUS (GRANDE)",
+      "diam_mayor": "26.4 mm",
+      "diam_menor": "23 mm",
+      "diam_rosca": "30 mm",
+      "paso": "1.5",
+      "long_vastago": "80 mm"
+    },
+    {
+      "raw_code": "FD-4066 R/L",
+      "desc": "TERMINAL TRANSVERSAL VOLVO 240",
+      "diam_mayor": "29 mm",
+      "diam_menor": "24 mm",
+      "diam_rosca": "30 mm",
+      "paso": "1.5",
+      "long_vastago": "80 mm"
+    },
+    {
+      "raw_code": "FD-4078 R/L",
+      "desc": "TERMINAL BRAZO VOLVO 240",
+      "diam_mayor": "29 mm",
+      "diam_menor": "24 mm",
+      "diam_rosca": "30 mm",
+      "paso": "1.5",
+      "long_vastago": "80.9 mm"
+    },
+    {
+      "raw_code": "FD-4094 R/L",
+      "desc": "TERMINAL VOLVO 440",
+      "diam_mayor": "32 mm",
+      "diam_menor": "27 mm",
+      "diam_rosca": "30 mm",
+      "paso": "1.5",
+      "long_vastago": "80 mm"
+    },
+    {
+      "raw_code": "FD-4099 R/L",
+      "desc": "TERMINAL VOLVO #7",
+      "diam_mayor": "29 mm",
+      "diam_menor": "24 mm",
+      "diam_rosca": "30 mm",
+      "paso": "1.5",
+      "long_vastago": "110 mm"
+    },
+    {
+      "raw_code": "FD-4080 R/L",
+      "desc": "TERMINAL VOLVO DOBLETROQUE",
+      "diam_mayor": "32 mm",
+      "diam_menor": "27 mm",
+      "diam_rosca": "30 mm",
+      "paso": "1.5",
+      "long_vastago": "90 mm"
+    },
+    {
+      "raw_code": "FD-1134 R/L",
+      "desc": "TERMINAL CONTROL DE CAMBIO MERCEDES (ESPECIAL)",
+      "diam_mayor": "12 mm",
+      "diam_menor": "10.5 mm",
+      "diam_rosca": "14 mm",
+      "paso": "1.5",
+      "long_vastago": "93 mm"
+    },
+    {
+      "raw_code": "FD-4015 R/L",
+      "desc": "TERMINAL YUTONG DE LA MONTAÑA (BRAZO)",
+      "diam_mayor": "26.31 mm",
+      "diam_menor": "23.44 mm",
+      "diam_rosca": "30 mm",
+      "paso": "1.5",
+      "long_vastago": "89.4 mm"
+    },
+    {
+      "raw_code": "FD-4069 R/L",
+      "desc": "TERMINAL YUTONG 6107/2014",
+      "diam_mayor": "31 mm",
+      "diam_menor": "27.5 mm",
+      "diam_rosca": "30 mm",
+      "paso": "1.5",
+      "long_vastago": "80 mm"
+    },
+    {
+      "raw_code": "FD-4025 R/L",
+      "desc": "TERMINAL YUTONG DE LA MONTAÑA TRANSVERSAL",
+      "diam_mayor": "23.32 mm",
+      "diam_menor": "19.9 mm",
+      "diam_rosca": "27 mm",
+      "paso": "1.5",
+      "long_vastago": "64.5 mm"
+    }
+  ],
+  "fundiciones": [
+    {
+      "raw_code": "FD-4068 R/L",
+      "desc": "TERMINAL DE DIRECCIÓN CHEVROLET CYZ",
+      "diam_mayor": "32 mm",
+      "diam_menor": "29.5 mm",
+      "diam_rosca": "M58 x 1.5",
+      "long_roscada": "59 mm",
+      "long_total": "102 mm"
+    },
+    {
+      "raw_code": "FD-4065 R/L",
+      "desc": "TERMINAL DE DIRECCIÓN FOTON AUMAN GTL",
+      "diam_mayor": "30.2 mm",
+      "diam_menor": "27 mm",
+      "diam_rosca": "M42 x 1.5",
+      "long_roscada": "53 mm",
+      "long_total": "90 mm"
+    },
+    {
+      "raw_code": "FD-4022 R/L",
+      "desc": "TERMINAL HINO 700",
+      "diam_mayor": "28 mm",
+      "diam_menor": "25.4 mm",
+      "diam_rosca": "M42 x 2",
+      "long_roscada": "55 mm",
+      "long_total": "120 mm"
+    },
+    {
+      "raw_code": "FD-4035 R/L",
+      "desc": "TERMINAL HINO 500",
+      "diam_mayor": "28 mm",
+      "diam_menor": "25.4 mm",
+      "diam_rosca": "M44 x 1.5",
+      "long_roscada": "60 mm",
+      "long_total": "122 mm"
+    },
+    {
+      "raw_code": "FD-4059 R/L",
+      "desc": "TRANSVERSAL HINO ROSCA HEMBRA",
+      "diam_mayor": "22 mm",
+      "diam_menor": "19.6 mm",
+      "diam_rosca": "M25 x 1.5",
+      "long_roscada": "51 mm",
+      "long_total": "75 mm"
+    },
+    {
+      "raw_code": "FD-4079 R/L",
+      "desc": "TERMINAL JAC HK6756K",
+      "diam_mayor": "22 mm",
+      "diam_menor": "19.6 mm",
+      "diam_rosca": "M31 x 1.5",
+      "long_roscada": "60 mm",
+      "long_total": "92 mm"
+    },
+    {
+      "raw_code": "FD-4064 R/L",
+      "desc": "TERMINAL JAC 1131",
+      "diam_mayor": "26.3 mm",
+      "diam_menor": "23.4 mm",
+      "diam_rosca": "M42 x 1.5",
+      "long_roscada": "53 mm",
+      "long_total": "90 mm"
+    },
+    {
+      "raw_code": "FD-4020 R/L",
+      "desc": "TERMINAL FTR",
+      "diam_mayor": "32 mm",
+      "diam_menor": "29.5 mm",
+      "diam_rosca": "M54 x 1.5",
+      "long_roscada": "35 mm",
+      "long_total": "79 mm"
+    },
+    {
+      "raw_code": "FD-4040 R/L",
+      "desc": "TERMINAL FTR 2013",
+      "diam_mayor": "32 mm",
+      "diam_menor": "29.5 mm",
+      "diam_rosca": "M52 x 1.5",
+      "long_roscada": "35 mm",
+      "long_total": "100 mm"
+    },
+    {
+      "raw_code": "FD-4021 R/L",
+      "desc": "TERMINAL FVR",
+      "diam_mayor": "32 mm",
+      "diam_menor": "29.5 mm",
+      "diam_rosca": "M56 x 1.5",
+      "long_roscada": "32 mm",
+      "long_total": "79 mm"
+    },
+    {
+      "raw_code": "FD-4103 R/L",
+      "desc": "TERMINAL FVZ FORWARD",
+      "diam_mayor": "32 mm",
+      "diam_menor": "30 mm",
+      "diam_rosca": "M52 x 1.5",
+      "long_roscada": "60 mm",
+      "long_total": "91 mm"
+    },
+    {
+      "raw_code": "FD-4091 R/L",
+      "desc": "TERMINAL TRANSV HINO AK500",
+      "diam_mayor": "28.5 mm",
+      "diam_menor": "25.8 mm",
+      "diam_rosca": "M58 x 1.5",
+      "long_roscada": "59 mm",
+      "long_total": "102 mm"
+    },
+    {
+      "raw_code": "FD-4028 R/L",
+      "desc": "TERMINAL ISUZU LV",
+      "diam_mayor": "32 mm",
+      "diam_menor": "29 mm",
+      "diam_rosca": "M42 x 1.5",
+      "long_roscada": "74 mm",
+      "long_total": "73 mm"
+    },
+    {
+      "raw_code": "FD-4058 R/L",
+      "desc": "TERMINAL FRR",
+      "diam_mayor": "23.1 mm",
+      "diam_menor": "20 mm",
+      "diam_rosca": "M27 x 1.5",
+      "long_roscada": "53 mm",
+      "long_total": "73 mm"
+    },
+    {
+      "raw_code": "FD-4042 R/L",
+      "desc": "TERMINAL NISSAN UD 41",
+      "diam_mayor": "20.5 mm",
+      "diam_menor": "16.8 mm",
+      "diam_rosca": "M24 x 1.5",
+      "long_roscada": "40.3 mm",
+      "long_total": "71 mm"
+    },
+    {
+      "raw_code": "FD-4046 R/L",
+      "desc": "TERMINAL KAMAZ",
+      "diam_mayor": "30.2 mm",
+      "diam_menor": "27 mm",
+      "diam_rosca": "M24 x 1.5",
+      "long_roscada": "",
+      "long_total": "71.3 mm"
+    },
+    {
+      "raw_code": "FDS-4028 R/L",
+      "desc": "TERMINAL ISUZU LV",
+      "diam_mayor": "32 mm",
+      "diam_menor": "29 mm",
+      "diam_rosca": "M52 x 1.5",
+      "long_roscada": "74 mm",
+      "long_total": "73 mm"
+    }
+  ],
+  "brazos": [
+    {
+      "code": "BD-008",
+      "desc": "BRAZO DE DIRECCIÓN AGRALE CON TERMINALES",
+      "long_espigos": "62 cm",
+      "terminal": "FD-2005 R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-011"
+    },
+    {
+      "code": "BD-107",
+      "desc": "BARRA TRANSVERSAL AGRALE CON TERMINALES",
+      "long_espigos": "81 cm",
+      "terminal": "FD-2005 R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-123"
+    },
+    {
+      "code": "BD-140",
+      "desc": "BRAZO DE DIRECCIÓN AGRALE LARGO CON TERMINALES",
+      "long_espigos": "73 cm",
+      "terminal": "FD-2005 R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-170"
+    },
+    {
+      "code": "BD-003",
+      "desc": "BRAZO DE DIRECCIÓN BRIGADIER DERECHO",
+      "long_espigos": "40 cm",
+      "terminal": "FD-2069 R/70 L",
+      "abrazadera": "AB-003",
+      "cana": "15-012"
+    },
+    {
+      "code": "BD-004",
+      "desc": "BRAZO DE DIRECCIÓN BRIGADIER IZQUIERDO",
+      "long_espigos": "40 cm",
+      "terminal": "FD-2069 R/70 L",
+      "abrazadera": "AB-003",
+      "cana": "15-012"
+    },
+    {
+      "code": "BD-005",
+      "desc": "BRAZO DE DIRECCIÓN FSR CON TERMINALES",
+      "long_espigos": "84 cm",
+      "terminal": "FD-2061 R/62L",
+      "abrazadera": "AB-002",
+      "cana": "15-035"
+    },
+    {
+      "code": "BD-009",
+      "desc": "BRAZO DE DIRECCIÓN NPR 2001-2009",
+      "long_espigos": "74 cm",
+      "terminal": "FD-4013 R/L",
+      "abrazadera": "AB-001",
+      "cana": "15-028"
+    },
+    {
+      "code": "BD-010",
+      "desc": "BRAZO DE DIRECCIÓN NKR CON TERMINALES",
+      "long_espigos": "69 cm",
+      "terminal": "FD-4014 R/L",
+      "abrazadera": "AB-001",
+      "cana": "15-026"
+    },
+    {
+      "code": "BD-016",
+      "desc": "BRAZO DE DIRECCIÓN NPR 1996-2001",
+      "long_espigos": "75 cm",
+      "terminal": "FD-2062 R/L",
+      "abrazadera": "AB-002",
+      "cana": "15-037"
+    },
+    {
+      "code": "BD-018",
+      "desc": "BRAZO DE DIRECCIÓN NPR 1\" CON TERMINALES",
+      "long_espigos": "73 cm",
+      "terminal": "FD-4006R/2062L",
+      "abrazadera": "AB-002",
+      "cana": "15-029"
+    },
+    {
+      "code": "BD-019",
+      "desc": "BRAZO DE DIRECCIÓN NKR 1\"",
+      "long_espigos": "69 cm",
+      "terminal": "FD-2061 R/62L",
+      "abrazadera": "AB-004",
+      "cana": "15-027"
+    },
+    {
+      "code": "BD-025",
+      "desc": "BARRA TRANSVERSAL NPR CON TERMINALES",
+      "long_espigos": "142 cm",
+      "terminal": "FD-4001 R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-031"
+    },
+    {
+      "code": "BD-027",
+      "desc": "BRAZO DE DIRECCIÓN FTR CON TERMINALES",
+      "long_espigos": "95 cm",
+      "terminal": "FD-4032 R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-017"
+    },
+    {
+      "code": "BD-045",
+      "desc": "BARRA TRANSVERSAL BRIGADIER CON TERMINALES",
+      "long_espigos": "160 cm",
+      "terminal": "FD-2069 R/70L",
+      "abrazadera": "AB-003",
+      "cana": "15-078"
+    },
+    {
+      "code": "BD-057",
+      "desc": "BRAZO DE DIRECCIÓN NPR 2013 REWARD",
+      "long_espigos": "68 cm",
+      "terminal": "FD-4013 R/L",
+      "abrazadera": "AB-001",
+      "cana": "15-059"
+    },
+    {
+      "code": "BD-058",
+      "desc": "BRAZO DE DIRECCIÓN NKR 2013 REWARD",
+      "long_espigos": "71 cm",
+      "terminal": "FD-4014 R/L",
+      "abrazadera": "AB-001",
+      "cana": "15-060"
+    },
+    {
+      "code": "BD-063",
+      "desc": "BRAZO DE DIRECCIÓN NQR CON TERMINALES",
+      "long_espigos": "70 cm",
+      "terminal": "FD-4006R/2062L",
+      "abrazadera": "AB-001",
+      "cana": "15-069"
+    },
+    {
+      "code": "BD-040",
+      "desc": "BRAZO DE DIRECCIÓN FVR CON TERMINALES",
+      "long_espigos": "95 cm",
+      "terminal": "FD-4001 R/L",
+      "abrazadera": "AB-002",
+      "cana": "15-017"
+    },
+    {
+      "code": "BD-070",
+      "desc": "BRAZO DE DIRECCIÓN CHEVROLET FRR",
+      "long_espigos": "77 cm",
+      "terminal": "FD-2061 R/62L",
+      "abrazadera": "AB-002",
+      "cana": "15-083"
+    },
+    {
+      "code": "BD-103",
+      "desc": "BRAZO DE DIRECCIÓN FVR 2016",
+      "long_espigos": "98 cm",
+      "terminal": "FD-4032 R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-118"
+    },
+    {
+      "code": "BD-110",
+      "desc": "BRAZO DE DIRECCIÓN FTR 2013/14/15",
+      "long_espigos": "99 cm",
+      "terminal": "FD-4032 R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-128"
+    },
+    {
+      "code": "BD-134",
+      "desc": "BARRA TRANSVERSAL NPR REWARD LARGA",
+      "long_espigos": "142 cm",
+      "terminal": "FD-4001 R/L",
+      "abrazadera": "AB-001",
+      "cana": "15-031"
+    },
+    {
+      "code": "BD-151",
+      "desc": "BRAZO DE DIRECCIÓN CHEVROLET C70",
+      "long_espigos": "42.6 cm",
+      "terminal": "FD-2061 R/62L",
+      "abrazadera": "AB-003",
+      "cana": "15-051"
+    },
+    {
+      "code": "BD-162",
+      "desc": "BARRA TRANSVERSAL NHR",
+      "long_espigos": "120 cm",
+      "terminal": "FD-4001 R/L",
+      "abrazadera": "AB-001",
+      "cana": "15-198"
+    },
+    {
+      "code": "BD-180",
+      "desc": "BRAZO DE DIRECCIÓN CYZ 2016",
+      "long_espigos": "99 cm",
+      "terminal": "FD-4086 R/L",
+      "abrazadera": "AB-004",
+      "cana": "15-215"
+    },
+    {
+      "code": "BD-190",
+      "desc": "BRAZO DE DIRECCIÓN ISUZU CHR 7.2",
+      "long_espigos": "157 cm",
+      "terminal": "FD-4032 R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-223"
+    },
+    {
+      "code": "BD-198",
+      "desc": "BARRA TRANSVERSAL FSR CON TERMINALES",
+      "long_espigos": "152 cm",
+      "terminal": "FD-4016 R/L",
+      "abrazadera": "AB-001",
+      "cana": "15-231"
+    },
+    {
+      "code": "BD-200",
+      "desc": "BARRA TRANSVERSAL NQR",
+      "long_espigos": "142 cm",
+      "terminal": "FD-4001 R/L",
+      "abrazadera": "AB-001",
+      "cana": "15-031"
+    },
+    {
+      "code": "BD-223",
+      "desc": "BRAZO DE DIRECCIÓN NQR 2016",
+      "long_espigos": "78 cm",
+      "terminal": "FD-4013 R/L",
+      "abrazadera": "AB-001",
+      "cana": "15-031"
+    },
+    {
+      "code": "BD-012",
+      "desc": "BRAZO DE DIRECCIÓN DAIHATSU DELTA",
+      "long_espigos": "72 cm",
+      "terminal": "FD-4003 R/L",
+      "abrazadera": "AB-001",
+      "cana": "15-013"
+    },
+    {
+      "code": "BD-023",
+      "desc": "BRAZO DE DIRECCIÓN SUPER DELTA",
+      "long_espigos": "72 cm",
+      "terminal": "FD-4017 R/L",
+      "abrazadera": "AB-001",
+      "cana": "15-013"
+    },
+    {
+      "code": "BD-001",
+      "desc": "BRAZO PITMAN DE DIRECCIÓN EAGLE",
+      "long_espigos": "75 cm",
+      "terminal": "FD-346 R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-014"
+    },
+    {
+      "code": "BD-075",
+      "desc": "BARRA TRANSVERSAL CHEVROLET FRR",
+      "long_espigos": "141 cm",
+      "terminal": "FD-2061 R/L",
+      "abrazadera": "AB-002",
+      "cana": "15-086"
+    },
+    {
+      "code": "BD-002",
+      "desc": "BRAZO DE DIRECCIÓN KODIAK DIESEL CON TERMINALES",
+      "long_espigos": "40.0 cm",
+      "terminal": "FD-3274 R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-022"
+    },
+    {
+      "code": "BD-141",
+      "desc": "BRAZO DE DIRECCIÓN KODIAK GASOLINA CON TERMINALES",
+      "long_espigos": "52.0 cm",
+      "terminal": "FD-3278 L/FD-3277 R",
+      "abrazadera": "AB-002",
+      "cana": "15-171"
+    },
+    {
+      "code": "BD-021",
+      "desc": "BRAZO DE DIRECCIÓN FORD CARGO 815 CON TERMINALES",
+      "long_espigos": "83.0 cm",
+      "terminal": "FD-2007 R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-016"
+    },
+    {
+      "code": "BD-026",
+      "desc": "BRAZO DE DIRECCIÓN FORD CARGO 1721 CON TERMINALES",
+      "long_espigos": "90.0 cm",
+      "terminal": "FD-187 L/346 R",
+      "abrazadera": "AB-003",
+      "cana": "15-015"
+    },
+    {
+      "code": "BD-028",
+      "desc": "BARRA TRANSV. FORD CARGO 815 CON TERMINALES",
+      "long_espigos": "164.0 cm",
+      "terminal": "FD-2007 R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-032"
+    },
+    {
+      "code": "BD-148",
+      "desc": "BRAZO DE DIRECCIÓN FORD 9000 DER",
+      "long_espigos": "44.0 cm",
+      "terminal": "FD-187-R/FD-346-L",
+      "abrazadera": "AB-003",
+      "cana": "15-181"
+    },
+    {
+      "code": "BD-067",
+      "desc": "BRAZO DE DIRECCIÓN FREIGHTLINER MULA CON TERMINALES",
+      "long_espigos": "81.0 cm",
+      "terminal": "FD-346 R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-033"
+    },
+    {
+      "code": "BD-006",
+      "desc": "BRAZO DE DIRECCIÓN FREIGHRLINER DOBLETROQUE C/TERMINALES",
+      "long_espigos": "70.0 cm",
+      "terminal": "FD-346 R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-105"
+    },
+    {
+      "code": "BD-041",
+      "desc": "BRAZO DE DIRECCIÓN FOTON OLIN 4.5",
+      "long_espigos": "72.0 cm",
+      "terminal": "FD-4025 R/L",
+      "abrazadera": "AB-002",
+      "cana": "15-095"
+    },
+    {
+      "code": "BD-051",
+      "desc": "BRAZO DE DIRECCIÓN FOTON OLIN 3.5",
+      "long_espigos": "73.0 cm",
+      "terminal": "FD-4023 R/L",
+      "abrazadera": "AB-004",
+      "cana": "15-036"
+    },
+    {
+      "code": "BD-106",
+      "desc": "BRAZO DE DIRECCIÓN FOTON AUMAN GTL 3835",
+      "long_espigos": "82.0 cm",
+      "terminal": "FD-MBZ8 R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-122"
+    },
+    {
+      "code": "BD-099",
+      "desc": "BRAZO DE DIRECCIÓN FOTON TX 1834 MULA",
+      "long_espigos": "98.0 cm",
+      "terminal": "FD-MBZ8 R/L",
+      "abrazadera": "AB-004",
+      "cana": "15-117"
+    },
+    {
+      "code": "BD-052",
+      "desc": "BRAZO DE DIRECCIÓN FOTON AUMAN CAMION",
+      "long_espigos": "81.0 cm",
+      "terminal": "FD-4030 R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-041"
+    },
+    {
+      "code": "BD-038",
+      "desc": "BRAZO DE DIRECCION HINO 500 FM MOD.2015/2017",
+      "long_espigos": "84.0 cm",
+      "terminal": "FD-4056 R/L",
+      "abrazadera": "AB-004",
+      "cana": "15-119"
+    },
+    {
+      "code": "BD-173",
+      "desc": "BRAZO DE DIRECCION HINO FC 500 BUSETON MOD 2019",
+      "long_espigos": "120.0 cm",
+      "terminal": "FD-2061 R/2062 L",
+      "abrazadera": "AB-005",
+      "cana": "15-209"
+    },
+    {
+      "code": "BD-119",
+      "desc": "BRAZO DE DIRECCION HINO 700",
+      "long_espigos": "104.0 cm",
+      "terminal": "FD-4056 R/L",
+      "abrazadera": "AB-006",
+      "cana": "15-143"
+    },
+    {
+      "code": "BD-168",
+      "desc": "BRAZO PITMAN HINO FD 500 CAMION",
+      "long_espigos": "79.0 cm",
+      "terminal": "FD-4058 R/L",
+      "abrazadera": "AB-007",
+      "cana": "15-206"
+    },
+    {
+      "code": "BD-015",
+      "desc": "BRAZO DE DIRECCIÓN HINO 2007-2010 CON TERMINALES",
+      "long_espigos": "74.0 cm",
+      "terminal": "FD-2061 R/62 L",
+      "abrazadera": "AB-002",
+      "cana": "15-019"
+    },
+    {
+      "code": "BD-046",
+      "desc": "BARRA TRANSV. HINO BUSETON C/TERMINALES",
+      "long_espigos": "142.0 cm",
+      "terminal": "FD-2061 R/62 L",
+      "abrazadera": "AB-002",
+      "cana": "15-061"
+    },
+    {
+      "code": "BD-022",
+      "desc": "BRAZO DE DIRECCIÓN HINO 2011-2012 CON TERMINALES",
+      "long_espigos": "77.0 cm",
+      "terminal": "FD-2061 R/62 L",
+      "abrazadera": "AB-002",
+      "cana": "15-018"
+    },
+    {
+      "code": "BD-082",
+      "desc": "BRAZO DE DIRECCIÓN HINO 500-FG MOD. 2012",
+      "long_espigos": "79.0 cm",
+      "terminal": "FD-4056 R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-194"
+    },
+    {
+      "code": "BD-079",
+      "desc": "BRAZO DE DIRECCIÓN HINO DUTRO 300 CON TERMINALES",
+      "long_espigos": "73.0 cm",
+      "terminal": "FD-4054 R/L",
+      "abrazadera": "AB-002",
+      "cana": "15-092"
+    },
+    {
+      "code": "BD-085",
+      "desc": "BRAZO DE DIRECCIÓN HINO GD CON TERMINALES",
+      "long_espigos": "76.0 cm",
+      "terminal": "FD-2061 R/62 L",
+      "abrazadera": "AB-002",
+      "cana": "15-103"
+    },
+    {
+      "code": "BD-086",
+      "desc": "BRAZO DE DIRECCIÓN HINO FF CON TERMINALES",
+      "long_espigos": "88.0 cm",
+      "terminal": "FD-4056 R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-104"
+    },
+    {
+      "code": "BD-160",
+      "desc": "BRAZO DE DIRECCIÓN HINO DUTRO MACK 300",
+      "long_espigos": "83.0 cm",
+      "terminal": "FD-1139 R/L",
+      "abrazadera": "AB-002",
+      "cana": "15-192"
+    },
+    {
+      "code": "BD-176",
+      "desc": "BRAZO DE DIRECCIÓN HINO DUTRO MOD 2016",
+      "long_espigos": "65.0 cm",
+      "terminal": "FD-1139 R/L",
+      "abrazadera": "AB-002",
+      "cana": "15-212"
+    },
+    {
+      "code": "BD-171",
+      "desc": "BRAZO DE DIRECCIÓN HINO DUTRO EURO IV MOD 2014",
+      "long_espigos": "80.0 cm",
+      "terminal": "FD-1139 R/L",
+      "abrazadera": "AB-002",
+      "cana": "15-208"
+    },
+    {
+      "code": "BD-060",
+      "desc": "BRAZO DE DIRECCIÓN HYUNDAI HD-120 2006",
+      "long_espigos": "66.0 cm",
+      "terminal": "FD-142 R/L",
+      "abrazadera": "AB-002",
+      "cana": "15-067"
+    },
+    {
+      "code": "BD-081",
+      "desc": "BRAZO DE DIRECCIÓN HYUNDAI HD 1000 MOD. 2010",
+      "long_espigos": "91.0 cm",
+      "terminal": "FD-MBZ 9 R/L",
+      "abrazadera": "AB-002",
+      "cana": "15-093"
+    },
+    {
+      "code": "BD-007",
+      "desc": "BRAZO DE DIRECCIÓN HI 4700 CON TERMINALES",
+      "long_espigos": "47.0 cm",
+      "terminal": "FD-187 R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-040"
+    },
+    {
+      "code": "BD-074",
+      "desc": "BRAZO DE DIRECCIÓN HI 7400 CON TERMINALES",
+      "long_espigos": "35.0 cm",
+      "terminal": "FD-187 R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-080"
+    },
+    {
+      "code": "BD-055",
+      "desc": "BARRA TRANSVERSAL DE COUNTRY",
+      "long_espigos": "147.0 cm",
+      "terminal": "FD-4049 R/L",
+      "abrazadera": "AB-001",
+      "cana": "15-031"
+    },
+    {
+      "code": "BD-156",
+      "desc": "BRAZO DE DIRECCIÓN HYUNDAI COUNTRY",
+      "long_espigos": "80.4 cm",
+      "terminal": "FD-4037 R/L",
+      "abrazadera": "AB-002",
+      "cana": "15-187"
+    },
+    {
+      "code": "BD-017",
+      "desc": "BRAZO DE DIRECCIÓN HI 7600 CON TERMINALES",
+      "long_espigos": "42.0 cm",
+      "terminal": "FD-187 R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-072"
+    },
+    {
+      "code": "BD-024",
+      "desc": "BRAZO DE DIRECCIÓN INTERNATIONAL (MV) CON TERMINALES",
+      "long_espigos": "78.0 cm",
+      "terminal": "FD-187 R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-020"
+    },
+    {
+      "code": "BD-065",
+      "desc": "BRAZO DE DIRECCIÓN INTERNATIONAL 4700 CON TERMINALES",
+      "long_espigos": "40.0 cm",
+      "terminal": "FD-187 R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-080"
+    },
+    {
+      "code": "BD-071",
+      "desc": "BRAZO DE DIRECCIÓN INTERNATIONAL 4300 CON TERMINALES",
+      "long_espigos": "69.0 cm",
+      "terminal": "FD-187 R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-090"
+    },
+    {
+      "code": "BD-069",
+      "desc": "BARRA TRANSV. INTERN. DOBLETROQUE",
+      "long_espigos": "160.0 cm",
+      "terminal": "FD-187 R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-073"
+    },
+    {
+      "code": "BD-154",
+      "desc": "BRAZO DE DIRECCIÓN INTERNACIONAL 95",
+      "long_espigos": "65.0 cm",
+      "terminal": "FD-346-R/FD-187-L",
+      "abrazadera": "AB-003",
+      "cana": "15-185"
+    },
+    {
+      "code": "BD-030",
+      "desc": "BRAZO DE DIRECCIÓN JAC 1083-2013 CON TERMINALES",
+      "long_espigos": "76.0 cm",
+      "terminal": "FD-4014 R/L",
+      "abrazadera": "AB-001",
+      "cana": "15-082"
+    },
+    {
+      "code": "BD-172",
+      "desc": "BRAZO DE DIRECCIÓN JAC 1061",
+      "long_espigos": "74.0 cm",
+      "terminal": "FD-2061 R/2062 L",
+      "abrazadera": "AB-002",
+      "cana": "15-019"
+    },
+    {
+      "code": "BD-049",
+      "desc": "BRAZO DE DIRECCIÓN JBC 1030 CON TERMINALES",
+      "long_espigos": "72.0 cm",
+      "terminal": "FD-JBC 1030 R/L",
+      "abrazadera": "AB-001",
+      "cana": "15-057"
+    },
+    {
+      "code": "BD-136",
+      "desc": "BRAZO DE DIRECCIÓN DELANTERO YUTONG 6107 MOD 2014",
+      "long_espigos": "70.0 cm",
+      "terminal": "FD-MBZ 8-R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-165"
+    },
+    {
+      "code": "BD-011",
+      "desc": "BRAZO DE DIRECCIÓN KENWORTH CON TERMINALES/82 CM",
+      "long_espigos": "81.0 cm",
+      "terminal": "FD-4027 R/L",
+      "abrazadera": "",
+      "cana": "15-021"
+    },
+    {
+      "code": "BD-035",
+      "desc": "BRAZO DE DIRECCIÓN KENWORTH CORTA/79 CM-T600",
+      "long_espigos": "70.0 cm",
+      "terminal": "FD-346 R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-062"
+    },
+    {
+      "code": "BD-034",
+      "desc": "BRAZO DE DIRECCIÓN KENWORTH LARGA/72 CM-T800",
+      "long_espigos": "81.0 cm",
+      "terminal": "",
+      "abrazadera": "AB-003",
+      "cana": "15-021"
+    },
+    {
+      "code": "BD-147",
+      "desc": "BRAZO DE DIRECCIÓN MINI MULA DE KENWORTH T-300",
+      "long_espigos": "55.0 cm",
+      "terminal": "FD-346 R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-180"
+    },
+    {
+      "code": "BD-132",
+      "desc": "BRAZO DE DIRECCIÓN PITMAN KENWORT T300",
+      "long_espigos": "42.0 cm",
+      "terminal": "FD-346 R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-160"
+    },
+    {
+      "code": "BD-068",
+      "desc": "BARRA TRANSV. KENWORTH T-800",
+      "long_espigos": "180.0 cm",
+      "terminal": "FD-2061 R/2062 L",
+      "abrazadera": "AB-003",
+      "cana": "15-074"
+    },
+    {
+      "code": "BD-053",
+      "desc": "BARRA TRANSVERSAL MITSUBISHI CANTER CON TERMINALES",
+      "long_espigos": "141.0 cm",
+      "terminal": "FD-4007 R/L",
+      "abrazadera": "AB-001",
+      "cana": "15-099"
+    },
+    {
+      "code": "BD-020",
+      "desc": "BRAZO DE DIRECCIÓN MITSUBISHI CANTER CON TERMINALES",
+      "long_espigos": "80.0 cm",
+      "terminal": "FD-4037 R/L",
+      "abrazadera": "AB-001",
+      "cana": "15-024"
+    },
+    {
+      "code": "BD-031",
+      "desc": "BRAZO DE DIRECCIÓN MERCEDES ATEGO 1315/1725",
+      "long_espigos": "85.0 cm",
+      "terminal": "FD-MBZ 9 R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-064"
+    },
+    {
+      "code": "BD-092",
+      "desc": "BARRA TRANSVERSAL MERCEDES THOMAS CON TERMINALES",
+      "long_espigos": "162.0 cm",
+      "terminal": "FD-4060 R/L",
+      "abrazadera": "AB-008",
+      "cana": "15-112"
+    },
+    {
+      "code": "BD-108",
+      "desc": "BRAZO DE DIRECCIÓN MERCEDES ATEGO",
+      "long_espigos": "82.0 cm",
+      "terminal": "FD-MBZ8 R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-123"
+    },
+    {
+      "code": "BD-044",
+      "desc": "BRAZO DE DIRECCIÓN MERCEDES ACTROS 3331",
+      "long_espigos": "87.0 cm",
+      "terminal": "FD-MBZ 9 R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-039"
+    },
+    {
+      "code": "BD-135",
+      "desc": "BRAZO DE DIRECCIÓN MERCEDES LO 500",
+      "long_espigos": "95.0 cm",
+      "terminal": "FD-MBZ 9 R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-164"
+    },
+    {
+      "code": "BD-105",
+      "desc": "BRAZO DE DIRECCIÓN MERCEDES BENZ LO 915",
+      "long_espigos": "52.0 cm",
+      "terminal": "FD-4063 R/L",
+      "abrazadera": "AB-002",
+      "cana": "15-121"
+    },
+    {
+      "code": "BD-161",
+      "desc": "BRAZO DE DIRECCIÓN MERCEDES LO 912",
+      "long_espigos": "46.0 cm",
+      "terminal": "FD-4077 R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-194"
+    },
+    {
+      "code": "BD-014",
+      "desc": "BRAZO DE DIRECCIÓN NISSAN MT 3000 CON TERMINALES",
+      "long_espigos": "66.0 cm",
+      "terminal": "FD-4002 R/L",
+      "abrazadera": "AB-001",
+      "cana": "15-025"
+    },
+    {
+      "code": "BD-062",
+      "desc": "BARRA TRANSVERSAL NISSAN MT-3000 CON TERMINALES",
+      "long_espigos": "141.0 cm",
+      "terminal": "FD-4002 R/L",
+      "abrazadera": "AB-001",
+      "cana": "15-079"
+    },
+    {
+      "code": "BD-029",
+      "desc": "BRAZO DE DIRECCIÓN NISSAN UD CON TERMINALES",
+      "long_espigos": "66.0 cm",
+      "terminal": "FD-4026 R/L",
+      "abrazadera": "AB-001",
+      "cana": "15-030"
+    },
+    {
+      "code": "BD-073",
+      "desc": "BRAZO DE DIRECCIÓN NISSAN TK-55 CON TERMINALES",
+      "long_espigos": "80.0 cm",
+      "terminal": "FD-4002 R/L",
+      "abrazadera": "AB-001",
+      "cana": "15-085"
+    },
+    {
+      "code": "BD-084",
+      "desc": "BARRA TRANSVERSAL NISSAN UD SIN TERMINALES",
+      "long_espigos": "136.0 cm",
+      "terminal": "",
+      "abrazadera": "AB-002",
+      "cana": "15-102"
+    },
+    {
+      "code": "BD-114",
+      "desc": "BRAZO DE DIRECCIÓN NISSAN CABSTAR NT-400",
+      "long_espigos": "64.0 cm",
+      "terminal": "FD-4073 R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-194"
+    },
+    {
+      "code": "BD-158",
+      "desc": "BRAZO DE DIRECCIÓN SCANIA",
+      "long_espigos": "127.0 cm",
+      "terminal": "FD-MBZ 9 R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-190"
+    },
+    {
+      "code": "BD-037",
+      "desc": "BRAZO DE DIRECCIÓN NISSAN CABSTAR",
+      "long_espigos": "64.0 cm",
+      "terminal": "FD-4026 R/L",
+      "abrazadera": "AB-001",
+      "cana": "15-038"
+    },
+    {
+      "code": "BD-013",
+      "desc": "BRAZO DE DIRECCIÓN MAZDA TURBO CON TERMINALES",
+      "long_espigos": "72.0 cm",
+      "terminal": "FD-4038 R/L",
+      "abrazadera": "AB-001",
+      "cana": "15-023"
+    },
+    {
+      "code": "BD-032",
+      "desc": "BARRA TRANSV. MAZDA TURBO 4.5 CON TERMINALES",
+      "long_espigos": "144.0 cm",
+      "terminal": "FD-4009 R/L",
+      "abrazadera": "AB-001",
+      "cana": "15-097"
+    },
+    {
+      "code": "BD-039",
+      "desc": "BRAZO DE DIRECCIÓN VOLKSWAGEN 8120",
+      "long_espigos": "82.0 cm",
+      "terminal": "FD-2007 R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-063"
+    },
+    {
+      "code": "BD-042",
+      "desc": "BRAZO DE DIRECCIÓN VOLKSWAGEN BUSETON",
+      "long_espigos": "79.0 cm",
+      "terminal": "FD-2007 R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-034"
+    },
+    {
+      "code": "BD-056",
+      "desc": "BRAZO DE DIRECCIÓN VOLKSWAGEN WORKER 17220",
+      "long_espigos": "91.0 cm",
+      "terminal": "FD-187 R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-065"
+    },
+    {
+      "code": "BD-048",
+      "desc": "BARRA TRANSVERSAL VOLKSWAGEN 17220",
+      "long_espigos": "168.0 cm",
+      "terminal": "FD-187 R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-098"
+    },
+    {
+      "code": "BD-059",
+      "desc": "BRAZO DE DIRECCIÓN VOLKSWAGEN 9-150",
+      "long_espigos": "79.0 cm",
+      "terminal": "FD-2005 R/L",
+      "abrazadera": "AB-002",
+      "cana": "15-066"
+    },
+    {
+      "code": "BD-152",
+      "desc": "BRAZO DE DIRECCIÓN VOLKSWAGEN 31310",
+      "long_espigos": "91.0 cm",
+      "terminal": "FD-187 R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-183"
+    },
+    {
+      "code": "BD-159",
+      "desc": "BARRA TRANSVERSAL SCANIA",
+      "long_espigos": "141.5 cm",
+      "terminal": "FD-MBZ 9 R/L",
+      "abrazadera": "AB-003",
+      "cana": "15-191"
+    }
+  ],
+  "king_pins": [
+    {
+      "code": "KP-001",
+      "desc": "KING PIN 1/2 CON TUERCA",
+      "largo_mm": "211 mm",
+      "dist_cono": "108 mm",
+      "diam_menor": "62 mm",
+      "diam_mayor": "73 mm",
+      "distancia": "37.4 mm",
+      "rosca": "2-1/4 x 12 UNF"
+    },
+    {
+      "code": "KP-002",
+      "desc": "KING PIN DE 3/8 CON TUERCA",
+      "largo_mm": "211 mm",
+      "dist_cono": "114 mm",
+      "diam_menor": "62 mm",
+      "diam_mayor": "73 mm",
+      "distancia": "37.4 mm",
+      "rosca": "2-1/4 x 12 UNF"
+    },
+    {
+      "code": "KP-003",
+      "desc": "BASE PARA KING PIN",
+      "largo_mm": "74 mm",
+      "dist_cono": "",
+      "diam_menor": "59.5 mm",
+      "diam_mayor": "72.7 mm",
+      "distancia": "",
+      "rosca": ""
+    },
+    {
+      "code": "KP-004",
+      "desc": "KING PIN DE 1/2\" COMPLETO",
+      "largo_mm": "211 mm",
+      "dist_cono": "108 mm",
+      "diam_menor": "62 mm",
+      "diam_mayor": "73 mm",
+      "distancia": "37.4 mm",
+      "rosca": "2-1/4 x 12 UNF"
+    },
+    {
+      "code": "KP-005",
+      "desc": "KING PIN DE 3/8\" COMPLETO",
+      "largo_mm": "211 mm",
+      "dist_cono": "114 mm",
+      "diam_menor": "62 mm",
+      "diam_mayor": "73 mm",
+      "distancia": "37.4 mm",
+      "rosca": "2-1/4 x 12 UNF"
+    },
+    {
+      "code": "KP-006",
+      "desc": "TUERCA PARA KING PIN",
+      "largo_mm": "34.5 mm",
+      "dist_cono": "",
+      "diam_menor": "",
+      "diam_mayor": "",
+      "distancia": "",
+      "rosca": "2-1/4 x 12 UNF"
+    },
+    {
+      "code": "KP-007",
+      "desc": "KING PIN BISON",
+      "largo_mm": "62 mm",
+      "dist_cono": "62 mm",
+      "diam_menor": "62 mm",
+      "diam_mayor": "73 mm",
+      "distancia": "36 mm",
+      "rosca": "2-1/4 x 12 UNF"
+    },
+    {
+      "code": "KP-010",
+      "desc": "KING PIN DE 1/2\" ESPECIAL",
+      "largo_mm": "220 mm",
+      "dist_cono": "108 mm",
+      "diam_menor": "62 mm",
+      "diam_mayor": "73 mm",
+      "distancia": "37.4 mm",
+      "rosca": "2-1/4 x 12 UNF"
+    },
+    {
+      "code": "KP-011",
+      "desc": "KING PIN DE 3/8\" ESPECIAL",
+      "largo_mm": "220 mm",
+      "dist_cono": "113 mm",
+      "diam_menor": "62 mm",
+      "diam_mayor": "73 mm",
+      "distancia": "37.4 mm",
+      "rosca": "2-1/4 x 12 UNF"
+    },
+    {
+      "code": "KP-015",
+      "desc": "KING PIN JOST ALEMÁN",
+      "largo_mm": "220 mm",
+      "dist_cono": "135 mm",
+      "diam_menor": "67.6 mm",
+      "diam_mayor": "73.1 mm",
+      "distancia": "36.3 mm",
+      "rosca": "M56 x 2 UNF"
+    }
+  ],
+  "puntas_tensoras": [
+    {
+      "code": "TP-026",
+      "desc": "PUNTA TENSORA / ZANAHORIA 44697 DE 70 MM",
+      "diam_buje": "70 mm",
+      "diam_mayor": "44 mm",
+      "diam_menor": "35 mm",
+      "rosca": "1-1/4\" 12 UNF"
+    },
+    {
+      "code": "TP-042",
+      "desc": "PUNTA TENSORA / ZANAHORIA 44697-A DE 65 MM",
+      "diam_buje": "65 mm",
+      "diam_mayor": "44 mm",
+      "diam_menor": "35 mm",
+      "rosca": "1-1/4\" 12 UNF"
+    }
+  ]
+}
