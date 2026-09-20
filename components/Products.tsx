@@ -73,11 +73,11 @@ export default function Products() {
             Catálogo · Línea Pesada
           </p>
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-black text-white mb-4">
-            +500 productos de{" "}
+            Más de 700{" "}
             <span style={{ background:"linear-gradient(135deg,#ff4444,#E30613,#ff6644)", backgroundSize:"200% auto",
                            WebkitBackgroundClip:"text", WebkitTextFillColor:"transparent",
                            backgroundClip:"text", animation:"shimmer 3s linear infinite" }}>
-              fabricación propia
+              referencias en stock
             </span>
           </h2>
           <p className="text-white/60 text-lg max-w-2xl mx-auto mb-2">
